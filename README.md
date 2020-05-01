@@ -10,8 +10,10 @@ Region used: us-east-1
 
 In order to run this script 
 
+````
 ./create <stack-name> <scriptname> <parameterscriptname>
 
 ./update <stack-name> <scriptname> <parameterscriptname>
 
 ./delete <stack-name>
+```
