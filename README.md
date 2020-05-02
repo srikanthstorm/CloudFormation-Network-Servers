@@ -6,6 +6,7 @@ Before executing the script install aws-sdk in your machine followed by the step
 ```
 aws configure
 
+Load balancer url to test: http://serve-webap-1g7b32e6821l1-404427981.us-east-1.elb.amazonaws.com/
 Region used: us-east-1
 ```
 In order to run this script 
